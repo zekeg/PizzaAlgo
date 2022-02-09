@@ -1,0 +1,8 @@
+1. Gather all pizza order methods by type for all available pizza establishments (web, phone, etc)
+2. From a list of available pizza establishments, select the establishment to order from
+3. From the selected pizza establishment select an available order method 
+4. From available menu options concatenate a list of ordered items selected by the user and a given price
+5. Submit the list of ordered items by the selected order method and confirm this submission with the pizza provider
+6. Transact payment with the pizza provider and confirm delivery
+7. Await pizza delivery based on confirmed timeframe
+8. If pizza does not arrive within a sufficient timeframe, create and initiate Vengeful Protocols
